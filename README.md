@@ -417,7 +417,7 @@
             </div>
 
             <button type="submit">
-                ENTER THE WORLD ⚡
+                ENTER THE WORLD 🙏
             </button>
 
         </form>
